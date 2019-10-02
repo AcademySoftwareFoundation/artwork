@@ -41,15 +41,6 @@
         <td><img src="/other/aswf/black/black-text.svg" width="75"></td>
     </tr>
     <tr>
-        <th>gold</th>
-        <td><img src="/other/aswf/gold/gold-logo.png" width="200"></td>
-        <td><img src="/other/aswf/gold/gold-acronym.png" width="95"></td>
-        <td><img src="/other/aswf/gold/gold-text.png" width="75"></td>
-        <td><img src="/other/aswf/gold/gold-logo.svg" width="200"></td>
-        <td><img src="/other/aswf/gold/gold-acronym.svg" width="95"></td>
-        <td><img src="/other/aswf/gold/gold-text.svg" width="75"></td>
-    </tr>
-    <tr>
         <th>white</th>
         <td><img src="/other/aswf/white/white-logo.png" width="200"></td>
         <td><img src="/other/aswf/white/white-acronym.png" width="95"></td>
@@ -57,6 +48,15 @@
         <td><img src="/other/aswf/white/white-logo.svg" width="200"></td>
         <td><img src="/other/aswf/white/white-acronym.svg" width="95"></td>
         <td><img src="/other/aswf/white/white-text.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>gold</th>
+        <td><img src="/other/aswf/gold/gold-logo.png" width="200"></td>
+        <td><img src="/other/aswf/gold/gold-acronym.png" width="95"></td>
+        <td><img src="/other/aswf/gold/gold-text.png" width="75"></td>
+        <td><img src="/other/aswf/gold/gold-logo.svg" width="200"></td>
+        <td><img src="/other/aswf/gold/gold-acronym.svg" width="95"></td>
+        <td><img src="/other/aswf/gold/gold-text.svg" width="75"></td>
     </tr>
 </table>
 

@@ -81,15 +81,6 @@
         <th>associate</th>
     </tr>
     <tr>
-        <th>color</th>
-        <td><img src="/other/aswf-member/premier/premier-color.png" width="125"></td>
-        <td><img src="/other/aswf-member/general/general-color.png" width="125"></td>
-        <td><img src="/other/aswf-member/associate/associate-color.png" width="125"></td>
-        <td><img src="/other/aswf-member/premier/premier-color.svg" width="125"></td>
-        <td><img src="/other/aswf-member/general/general-color.svg" width="125"></td>
-        <td><img src="/other/aswf-member/associate/associate-color.svg" width="125"></td>
-    </tr>
-    <tr>
         <th>black</th>
         <td><img src="/other/aswf-member/premier/premier-black.png" width="125"></td>
         <td><img src="/other/aswf-member/general/general-black.png" width="125"></td>
@@ -97,6 +88,15 @@
         <td><img src="/other/aswf-member/premier/premier-black.svg" width="125"></td>
         <td><img src="/other/aswf-member/general/general-black.svg" width="125"></td>
         <td><img src="/other/aswf-member/associate/associate-black.svg" width="125"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/aswf-member/premier/premier-color.png" width="125"></td>
+        <td><img src="/other/aswf-member/general/general-color.png" width="125"></td>
+        <td><img src="/other/aswf-member/associate/associate-color.png" width="125"></td>
+        <td><img src="/other/aswf-member/premier/premier-color.svg" width="125"></td>
+        <td><img src="/other/aswf-member/general/general-color.svg" width="125"></td>
+        <td><img src="/other/aswf-member/associate/associate-color.svg" width="125"></td>
     </tr>
     <tr>
         <th>white</th>

@@ -14,6 +14,7 @@ With many browsers, you can right click and copy the logo of your choice below. 
 * [Other ASWF Logos](examples/other.md)
   * [ASWF](examples/other.md#aswf-logos)
   * [ASWF Member](examples/other.md#aswf-member-logos)
+  * [Linux Foundation Member](examples/other.md#linux-foundation-member-logos)
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage with the key excepts available at [LICENSE.md](LICENSE.md). Refer to the [ASWF Brand Book](aswf-brand-book.pdf) for guidelines on how to use the logo.
 

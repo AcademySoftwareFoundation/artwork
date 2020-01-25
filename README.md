@@ -6,10 +6,10 @@ With many browsers, you can right click and copy the logo of your choice below. 
 
 * [Adopted Projects](examples/adopted.md)
   * [OpenColorIO](examples/adopted.md#opencolorio-logos)
+  * [OpenEXR](examples/adopted.md#openexr-logos)
   * [OpenVDB](examples/adopted.md#openvdb-logos)
 * [Incubating Projects](examples/incubating.md)
   * [OpenCue](examples/incubating.md#opencue-logos)
-  * [OpenEXR](examples/incubating.md#openexr-logos)
   * [OpenTimelineIO](examples/incubating.md#opentimelineio-logos)
 * [Other ASWF Logos](examples/other.md)
   * [ASWF](examples/other.md#aswf-logos)

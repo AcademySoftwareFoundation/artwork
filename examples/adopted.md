@@ -27,6 +27,31 @@
     </tr> -->
 </table>
 
+## OpenEXR Logos
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/openexr/openexr-color.png" width="200"></td>
+        <td><img src="/projects/openexr/openexr-color.svg" width="200"></td>
+    </tr>
+    <!-- <tr>
+        <th>black</th>
+        <td><img src="/projects/openexr/openexr-black.png" width="200"></td>
+        <td><img src="/projects/openexr/openexr-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/openexr/openexr-white.png" width="200"></td>
+        <td><img src="/projects/openexr/openexr-white.svg" width="200"></td>
+    </tr> -->
+</table>
+
 ## OpenVDB Logos
 
 <table>

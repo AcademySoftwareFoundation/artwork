@@ -27,6 +27,31 @@
     </tr> -->
 </table>
 
+## Open Shading Language Logos
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/openshadlinglanguage/openshadlinglanguage-color.png" width="200"></td>
+        <td><img src="/projects/openshadlinglanguage/openshadlinglanguage-color.svg" width="200"></td>
+    </tr>
+    <!-- <tr>
+        <th>black</th>
+        <td><img src="/projects/openshadlinglanguage/openshadlinglanguage-black.png" width="200"></td>
+        <td><img src="/projects/openshadlinglanguage/openshadlinglanguage-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/openshadlinglanguage/openshadlinglanguage-white.png" width="200"></td>
+        <td><img src="/projects/openshadlinglanguage/openshadlinglanguage-white.svg" width="200"></td>
+    </tr> -->
+</table>
+
 ## OpenTimelineIO Logos
 
 <table>

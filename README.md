@@ -10,6 +10,7 @@ With many browsers, you can right click and copy the logo of your choice below. 
   * [OpenVDB](examples/adopted.md#openvdb-logos)
 * [Incubating Projects](examples/incubating.md)
   * [OpenCue](examples/incubating.md#opencue-logos)
+  * [Open Shading Language](examples/incubating.md#open-shading-language-logos)
   * [OpenTimelineIO](examples/incubating.md#opentimelineio-logos)
 * [Other ASWF Logos](examples/other.md)
   * [ASWF](examples/other.md#aswf-logos)

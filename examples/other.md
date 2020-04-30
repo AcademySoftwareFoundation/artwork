@@ -109,6 +109,23 @@
     </tr>
 </table>
 
+## ASWF Zoom Backgrounds
+
+<table>
+    <tr>
+        <td><img src="/other/zoom-backgrounds/ASWF_ZoomBG_v4_A.png" width="200"></td>
+    </tr>
+    <tr>
+        <td><img src="/other/zoom-backgrounds/ASWF_ZoomBG_v4_B.png" width="200"></td>
+    </tr>
+    <tr>
+        <td><img src="/other/zoom-backgrounds/ASWF_ZoomBG_v4_B.png" width="200"></td>
+    </tr>
+    <tr>
+        <td><img src="/other/zoom-backgrounds/ASWF_ZoomBG_v4_D.png" width="200"></td>
+    </tr>
+</table>
+
 ## Linux Foundation Member Logos
 
 <table>

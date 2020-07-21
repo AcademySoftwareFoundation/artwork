@@ -78,10 +78,10 @@
         <th>greyscale</th>
         <td><img src="/projects/openexr/png/greyscale/openexr-horizontal-greyscale.png" width="200"></td>
         <td><img src="/projects/openexr/png/greyscale/openexr-stacked-greyscale.png" width="95"></td>
-        <td><img src="/projects/openexr/png/color/openexr-icon-color.png" width="75"></td>
+        <td><img src="/projects/openexr/png/greyscale/openexr-icon-color.png" width="75"></td>
         <td><img src="/projects/openexr/svg/greyscale/openexr-horizontal-greyscale.svg" width="200"></td>
         <td><img src="/projects/openexr/svg/greyscale/openexr-stacked-greyscale.svg" width="95"></td>
-        <td><img src="/projects/openexr/svg/color/openexr-icon-color.svg" width="75"></td>
+        <td><img src="/projects/openexr/svg/greyscale/openexr-icon-color.svg" width="75"></td>
     </tr>
     <tr>
     	<th>logo source</th>

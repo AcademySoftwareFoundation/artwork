@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   height="132"
+   width="132"
+   sodipodi:docname="ocio_dot_b_slack.svg"
+   id="svg100"
+   version="1.1"
+   viewBox="0 0 132 132">
+  <metadata
+     id="metadata104">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>ocio_dot_b</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg100"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="58.982373"
+     inkscape:cx="-6.7377558"
+     inkscape:zoom="3.34"
+     showgrid="false"
+     id="namedview102"
+     inkscape:window-height="1252"
+     inkscape:window-width="1926"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs84">
+    <style
+       id="style82">.cls-1{fill:#231f20;}</style>
+  </defs>
+  <title
+     id="title86">ocio_dot_b</title>
+  <g
+     transform="matrix(2.8277398,0,0,2.8277398,6.0457842,4.7140441)"
+     data-name="Layer 2"
+     id="Layer_2">
+    <g
+       data-name="Layer 1"
+       id="Layer_1-2">
+      <path
+         id="path88"
+         d="m 30,18 11.14,-3.71 v -0.14 a 21.4,21.4 0 0 0 -2,-4.12 l -0.08,-0.12 -10,6.45 A 9.15,9.15 0 0 1 30,18 Z"
+         class="cls-1" />
+      <path
+         id="path90"
+         d="m 42.31,19.35 v -0.14 l -11.56,1.47 a 9.11,9.11 0 0 1 0,1.92 l 11.55,1.47 v -0.14 a 21.72,21.72 0 0 0 0,-4.57 z"
+         class="cls-1" />
+      <path
+         id="path92"
+         d="m 29.07,27 9.88,6.55 0.08,-0.12 a 21.42,21.42 0 0 0 2,-4.1 V 29.19 L 30,25.35 A 9.15,9.15 0 0 1 29.07,27 Z"
+         class="cls-1" />
+      <circle
+         id="circle94"
+         r="5"
+         cy="21.629999"
+         cx="21.629999"
+         class="cls-1" />
+      <path
+         id="path96"
+         d="M 30.47,32 A 13.6,13.6 0 1 1 30.59,11.45 L 36.51,5.99 A 21.63,21.63 0 1 0 36.4,37.46 Z"
+         class="cls-1" />
+    </g>
+  </g>
+</svg>

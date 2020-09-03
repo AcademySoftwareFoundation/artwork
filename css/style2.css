@@ -171,6 +171,13 @@ button {
   font-size: 16px;
 }
 
+.download-icon {
+  background-image: url('https://image.flaticon.com/icons/svg/60/60721.svg');
+  background-size: 20px 20px;
+  background-repeat: no-repeat;
+  background-position: 5px 5px;
+}
+
 @media only screen and (max-width: 700px) {
 
   .logo {

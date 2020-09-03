@@ -60,13 +60,11 @@ permalink: /
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="https://github.com/AcademySoftwareFoundation/artwork/raw/master/other/aswf-member/premier/premier-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
-</div>
 </a>
 
 <a href="examples/other#aswf-zoom-backgrounds">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="https://artwork.aswf.io/other/zoom-backgrounds/ASWF_ZoomBG_v4_A.png"></div><div class="imagesquarecta">View Logos »</div></div>
-</div>
 </div>
 </a>
 
@@ -74,5 +72,7 @@ permalink: /
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="https://artwork.aswf.io/other/lf-member/platinum/lf_mem_plat.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
-</div>
 </a>
+
+</div>
+</section>

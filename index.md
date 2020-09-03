@@ -63,6 +63,16 @@ permalink: /
 </div>
 </a>
 
+<a href="examples/other#aswf-zoom-backgrounds">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="https://artwork.aswf.io/other/zoom-backgrounds/ASWF_ZoomBG_v4_A.png"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</div>
+</a>
 
-</section>
-  </div>
+<a href="examples/other#linux-foundation-member-logos">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="https://artwork.aswf.io/other/lf-member/platinum/lf_mem_plat.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</div>
+</a>

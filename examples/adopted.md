@@ -27,15 +27,10 @@
 <table class="logos-table">
 	<thead>
 		<tr>
-			<th colspan="7"></th>
-		</tr>	
-		<tr>
 			<th></th>
 			<th colspan="3">PNG</th>
 			<th colspan="3">SVG</th>
 		</tr>
-	</thead>	
-    <tbody>
 		<tr>
 			<th></th>
 			<th>horizontal</th>
@@ -45,6 +40,8 @@
 			<th>stacked</th>
 			<th>icon</th>
 		</tr>
+	</thead>	
+    <tbody>
 		<tr>
 			<th>color</th>
 			<td><a href="../projects/openexr/png/color/openexr-horizontal-color.png" download><img src="../projects/openexr/png/color/openexr-horizontal-color.png" width="200"></a></td>

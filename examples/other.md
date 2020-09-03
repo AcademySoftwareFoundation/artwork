@@ -31,15 +31,6 @@
             <td><a href="../other/aswf/aqua/aqua-text.svg" download><img src="../other/aswf/aqua/aqua-text.svg" width="75"></a></td>
         </tr>
         <tr>
-            <th>black</th>
-            <td><a href="../other/aswf/black/black-logo.png" download><img src="../other/aswf/black/black-logo.png" width="200"></a></td>
-            <td><a href="../other/aswf/black/black-acronym.png" download><img src="../other/aswf/black/black-acronym.png" width="95"></a></td>
-            <td><a href="../other/aswf/black/black-text.png" download><img src="../other/aswf/black/black-text.png" width="75"></a></td>
-            <td><a href="../other/aswf/black/black-logo.svg" download><img src="../other/aswf/black/black-logo.svg" width="200"></a></td>
-            <td><a href="../other/aswf/black/black-acronym.svg" download><img src="../other/aswf/black/black-acronym.svg" width="95"></a></td>
-            <td><a href="../other/aswf/black/black-text.svg" download><img src="../other/aswf/black/black-text.svg" width="75"></a></td>
-        </tr>
-        <tr>
             <th>white</th>
             <td><a href="../other/aswf/black/white-logo.png" download><img src="../other/aswf/white/white-logo.png" width="200"></a></td>
             <td><a href="../other/aswf/black/white-acronym.png" download><img src="../other/aswf/white/white-acronym.png" width="95"></a></td>
@@ -47,6 +38,15 @@
             <td><a href="../other/aswf/black/white-logo.svg" download><img src="../other/aswf/white/white-logo.svg" width="200"></a></td>
             <td><a href="../other/aswf/black/white-acronym.svg" download><img src="../other/aswf/white/white-acronym.svg" width="95"></a></td>
             <td><a href="../other/aswf/black/white-text.svg" download><img src="../other/aswf/white/white-text.svg" width="75"></a></td>
+        </tr>
+        <tr>
+            <th>black</th>
+            <td><a href="../other/aswf/black/black-logo.png" download><img src="../other/aswf/black/black-logo.png" width="200"></a></td>
+            <td><a href="../other/aswf/black/black-acronym.png" download><img src="../other/aswf/black/black-acronym.png" width="95"></a></td>
+            <td><a href="../other/aswf/black/black-text.png" download><img src="../other/aswf/black/black-text.png" width="75"></a></td>
+            <td><a href="../other/aswf/black/black-logo.svg" download><img src="../other/aswf/black/black-logo.svg" width="200"></a></td>
+            <td><a href="../other/aswf/black/black-acronym.svg" download><img src="../other/aswf/black/black-acronym.svg" width="95"></a></td>
+            <td><a href="../other/aswf/black/black-text.svg" download><img src="../other/aswf/black/black-text.svg" width="75"></a></td>
         </tr>
         <tr>
             <th>gold</th>
@@ -81,15 +81,6 @@
     </thead>
     <tbody>
         <tr>
-            <th>black</th>
-            <td><a href="../other/aswf-member/premier/premier-black.png" download><img src="../other/aswf-member/premier/premier-black.png" width="125"></a></td>
-            <td><a href="../other/aswf-member/premier/general-black.png" download><img src="../other/aswf-member/general/general-black.png" width="125"></a></td>
-            <td><a href="../other/aswf-member/premier/associate-black.png" download><img src="../other/aswf-member/associate/associate-black.png" width="125"></a></td>
-            <td><a href="../other/aswf-member/premier/premier-black.svg" download><img src="../other/aswf-member/premier/premier-black.svg" width="125"></a></td>
-            <td><a href="../other/aswf-member/premier/general-black.svg" download><img src="../other/aswf-member/general/general-black.svg" width="125"></a></td>
-            <td><a href="../other/aswf-member/premier/associate-black.svg" download><img src="../other/aswf-member/associate/associate-black.svg" width="125"></a></td>
-        </tr>
-        <tr>
             <th>color</th>
             <td><a href="../other/aswf-member/premier/premier-color.png" download><img src="../other/aswf-member/premier/premier-color.png" width="125"></a></td>
             <td><a href="../other/aswf-member/premier/general-color.png" download><img src="../other/aswf-member/general/general-color.png" width="125"></a></td>
@@ -107,6 +98,15 @@
             <td><a href="../other/aswf-member/premier/general-white.svg" download><img src="../other/aswf-member/general/general-white.svg" width="125"></a></td>
             <td><a href="../other/aswf-member/premier/associate-white.svg" download><img src="../other/aswf-member/associate/associate-white.svg" width="125"></a></td>
         </tr>
+	    <tr>
+            <th>black</th>
+            <td><a href="../other/aswf-member/premier/premier-black.png" download><img src="../other/aswf-member/premier/premier-black.png" width="125"></a></td>
+            <td><a href="../other/aswf-member/premier/general-black.png" download><img src="../other/aswf-member/general/general-black.png" width="125"></a></td>
+            <td><a href="../other/aswf-member/premier/associate-black.png" download><img src="../other/aswf-member/associate/associate-black.png" width="125"></a></td>
+            <td><a href="../other/aswf-member/premier/premier-black.svg" download><img src="../other/aswf-member/premier/premier-black.svg" width="125"></a></td>
+            <td><a href="../other/aswf-member/premier/general-black.svg" download><img src="../other/aswf-member/general/general-black.svg" width="125"></a></td>
+            <td><a href="../other/aswf-member/premier/associate-black.svg" download><img src="../other/aswf-member/associate/associate-black.svg" width="125"></a></td>
+	    </tr>
     </tbody>
 </table>
 

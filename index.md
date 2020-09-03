@@ -64,7 +64,7 @@ permalink: /
 
 <a href="examples/other#aswf-zoom-backgrounds">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="https://artwork.aswf.io/other/zoom-backgrounds/ASWF_ZoomBG_v4_A.png"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="https://artwork.aswf.io/other/zoom-backgrounds/ASWF_ZoomBG_v4_A.png"></div><div class="imagesquarecta">View Zoom Backgrounds »</div></div>
 </div>
 </a>
 

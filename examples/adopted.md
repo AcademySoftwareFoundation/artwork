@@ -47,39 +47,39 @@
 		</tr>
 		<tr>
 			<th>color</th>
-			<td><a href="../projects/openexr/openexr-horizontal-color.png" download><img src="../projects/openexr/png/color/openexr-horizontal-color.png" width="200"></a></td>
-			<td><a href="../projects/openexr/openexr-stacked-color.png" download><img src="../projects/openexr/png/color/openexr-stacked-color.png" width="95"></a></td>
-			<td><a href="../projects/openexr/openexr-icon-color.png" download><img src="../projects/openexr/png/color/openexr-icon-color.png" width="75"></a></td>
-			<td><a href="../projects/openexr/openexr-horzontal-color.svg" download><img src="../projects/openexr/svg/color/openexr-horizontal-color.svg" width="200"></a></td>
-			<td><a href="../projects/openexr/openexr-stacked-color.svg" download><img src="../projects/openexr/svg/color/openexr-stacked-color.svg" width="95"></a></td>
-			<td><a href="../projects/openexr/openexr-icon-color.svg" download><img src="../projects/openexr/svg/color/openexr-icon-color.svg" width="75"></a></td>
+			<td><a href="../projects/openexr/png/color/openexr-horizontal-color.png" download><img src="../projects/openexr/png/color/openexr-horizontal-color.png" width="200"></a></td>
+			<td><a href="../projects/openexr/png/color/openexr-stacked-color.png" download><img src="../projects/openexr/png/color/openexr-stacked-color.png" width="95"></a></td>
+			<td><a href="../projects/openexr/png/color/openexr-icon-color.png" download><img src="../projects/openexr/png/color/openexr-icon-color.png" width="75"></a></td>
+			<td><a href="../projects/openexr/svg/color/openexr-horzontal-color.svg" download><img src="../projects/openexr/svg/color/openexr-horizontal-color.svg" width="200"></a></td>
+			<td><a href="../projects/openexr/svg/color/openexr-stacked-color.svg" download><img src="../projects/openexr/svg/color/openexr-stacked-color.svg" width="95"></a></td>
+			<td><a href="../projects/openexr/svg/color/openexr-icon-color.svg" download><img src="../projects/openexr/svg/color/openexr-icon-color.svg" width="75"></a></td>
 		</tr>
 		<tr>
 			<th>black</th>
-			<td><a href="../projects/openexr/openexr-horizontal-black.png" download><img src="../projects/openexr/png/black/openexr-horizontal-black.png" width="200"></a></td>
-			<td><a href="../projects/openexr/openexr-stacked-black.png" download><img src="../projects/openexr/png/black/openexr-stacked-black.png" width="95"></a></td>
-			<td><a href="../projects/openexr/openexr-icon-black.png" download><img src="../projects/openexr/png/black/openexr-icon-black.png" width="75"></a></td>
-			<td><a href="../projects/openexr/openexr-horizontal-black.svg" download><img src="../projects/openexr/svg/black/openexr-horizontal-black.svg" width="200"></a></td>
-			<td><a href="../projects/openexr/openexr-stacked-black.svg" download><img src="../projects/openexr/svg/black/openexr-stacked-black.svg" width="95"></a></td>
-			<td><a href="../projects/openexr/openexr-icon-black.svg" download><img src="../projects/openexr/svg/black/openexr-icon-black.svg" width="75"></a></td>
+			<td><a href="../projects/openexr/png/black/openexr-horizontal-black.png" download><img src="../projects/openexr/png/black/openexr-horizontal-black.png" width="200"></a></td>
+			<td><a href="../projects/openexr/png/black/openexr-stacked-black.png" download><img src="../projects/openexr/png/black/openexr-stacked-black.png" width="95"></a></td>
+			<td><a href="../projects/openexr/png/black/openexr-icon-black.png" download><img src="../projects/openexr/png/black/openexr-icon-black.png" width="75"></a></td>
+			<td><a href="../projects/openexr/svg/black/openexr-horizontal-black.svg" download><img src="../projects/openexr/svg/black/openexr-horizontal-black.svg" width="200"></a></td>
+			<td><a href="../projects/openexr/svg/black/openexr-stacked-black.svg" download><img src="../projects/openexr/svg/black/openexr-stacked-black.svg" width="95"></a></td>
+			<td><a href="../projects/openexr/svg/black/openexr-icon-black.svg" download><img src="../projects/openexr/svg/black/openexr-icon-black.svg" width="75"></a></td>
 		</tr>
 		<tr>
 			<th>white</th>
-			<td><a href="../projects/openexr/openexr-horizontal-white.png" download><img src="../projects/openexr/png/white/openexr-horizontal-white.png" width="200"></a></td>
-			<td><a href="../projects/openexr/openexr-stacked-white.png" download><img src="../projects/openexr/png/white/openexr-stacked-white.png" width="95"></a></td>
-			<td><a href="../projects/openexr/openexr-icon-white.png" download><img src="../projects/openexr/png/white/openexr-icon-white.png" width="75"></a></td>
-			<td><a href="../projects/openexr/openexr-horizontal-white.svg" download><img src="../projects/openexr/svg/white/openexr-horizontal-white.svg" width="200"></a></td>
-			<td><a href="../projects/openexr/openexr-stacked-white.svg" download><img src="../projects/openexr/svg/white/openexr-stacked-white.svg" width="95"></a></td>
-			<td><a href="../projects/openexr/openexr-icon-white.svg" download><img src="../projects/openexr/svg/white/openexr-icon-white.svg" width="75"></a></td>
+			<td><a href="../projects/openexr/png/white/openexr-horizontal-white.png" download><img src="../projects/openexr/png/white/openexr-horizontal-white.png" width="200"></a></td>
+			<td><a href="../projects/openexr/png/white/openexr-stacked-white.png" download><img src="../projects/openexr/png/white/openexr-stacked-white.png" width="95"></a></td>
+			<td><a href="../projects/openexr/png/white/openexr-icon-white.png" download><img src="../projects/openexr/png/white/openexr-icon-white.png" width="75"></a></td>
+			<td><a href="../projects/openexr/svg/white/openexr-horizontal-white.svg" download><img src="../projects/openexr/svg/white/openexr-horizontal-white.svg" width="200"></a></td>
+			<td><a href="../projects/openexr/svg/white/openexr-stacked-white.svg" download><img src="../projects/openexr/svg/white/openexr-stacked-white.svg" width="95"></a></td>
+			<td><a href="../projects/openexr/svg/white/openexr-icon-white.svg" download><img src="../projects/openexr/svg/white/openexr-icon-white.svg" width="75"></a></td>
 		</tr>
 		<tr>
 			<th>greyscale</th>
-			<td><a href="../projects/openexr/openexr-horizontal-greyscale.png" download><img src="../projects/openexr/png/greyscale/openexr-horizontal-greyscale.png" width="200"></a></td>
-			<td><a href="../projects/openexr/openexr-stacked-greyscale.png" download><img src="../projects/openexr/png/greyscale/openexr-stacked-greyscale.png" width="95"></a></td>
-			<td><a href="../projects/openexr/openexr-icon-greyscale.png" download><img src="../projects/openexr/png/greyscale/openexr-icon-greyscale.png" width="75"></a></td>
-			<td><a href="../projects/openexr/openexr-horizontal-greyscale.svg" download><img src="../projects/openexr/svg/greyscale/openexr-horizontal-greyscale.svg" width="200"></a></td>
-			<td><a href="../projects/openexr/openexr-stacked-greyscale.svg" download><img src="../projects/openexr/svg/greyscale/openexr-stacked-greyscale.svg" width="95"></a></td>
-			<td><a href="../projects/openexr/openexr-icon-greyscale.svg" download><img src="../projects/openexr/svg/greyscale/openexr-icon-greyscale.svg" width="75"></a></td>
+			<td><a href="../projects/openexr/png/greyscale/openexr-horizontal-greyscale.png" download><img src="../projects/openexr/png/greyscale/openexr-horizontal-greyscale.png" width="200"></a></td>
+			<td><a href="../projects/openexr/png/greyscale/openexr-stacked-greyscale.png" download><img src="../projects/openexr/png/greyscale/openexr-stacked-greyscale.png" width="95"></a></td>
+			<td><a href="../projects/openexr/png/greyscale/openexr-icon-greyscale.png" download><img src="../projects/openexr/png/greyscale/openexr-icon-greyscale.png" width="75"></a></td>
+			<td><a href="../projects/openexr/svg/greyscale/openexr-horizontal-greyscale.svg" download><img src="../projects/openexr/svg/greyscale/openexr-horizontal-greyscale.svg" width="200"></a></td>
+			<td><a href="../projects/openexr/svg/greyscale/openexr-stacked-greyscale.svg" download><img src="../projects/openexr/svg/greyscale/openexr-stacked-greyscale.svg" width="95"></a></td>
+			<td><a href="../projects/openexr/svg/greyscale/openexr-icon-greyscale.svg" download><img src="../projects/openexr/svg/greyscale/openexr-icon-greyscale.svg" width="75"></a></td>
 		</tr>
 		<tr>
 			<th>logo source</th>

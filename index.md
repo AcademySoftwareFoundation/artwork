@@ -13,19 +13,19 @@ permalink: /
 <a href="examples/adopted#opencolorio-logos">
 <div class="outer-wrapper">
 <div class="imagesquare">
-<div class="imagecontainer"><img src="https://github.com/AcademySoftwareFoundation/artwork/raw/master/projects/opencolorio/opencolorio-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagecontainer"><img src="projects/opencolorio/opencolorio-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
 <a href="examples/adopted#openexr-logos">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="https://github.com/AcademySoftwareFoundation/artwork/raw/master/projects/openexr/svg/color/openexr-stacked-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/openexr/svg/color/openexr-stacked-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
 <a href="examples/adopted#openvdb-logos">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="https://github.com/AcademySoftwareFoundation/artwork/raw/master/projects/openvdb/openvdb-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/openvdb/openvdb-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
@@ -33,7 +33,7 @@ permalink: /
 
 <a href="examples/incubating#opencue-logos">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="https://github.com/AcademySoftwareFoundation/artwork/raw/master/projects/opencue/opencue-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/opencue/opencue-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 <a href="examples/incubating#open-shading-language-logos">
@@ -44,7 +44,7 @@ permalink: /
 
 <a href="examples/incubating#opentimelineio-logos">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="https://github.com/AcademySoftwareFoundation/artwork/raw/master/projects/opentimelineio/opentimelineio-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/opentimelineio/opentimelineio-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
@@ -52,25 +52,25 @@ permalink: /
 
 <a href="examples/other#aswf-logos">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="https://github.com/AcademySoftwareFoundation/artwork/raw/master/other/aswf/aqua/aqua-logo.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="other/aswf/aqua/aqua-logo.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
 <a href="examples/other#aswf-member-logos">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="https://github.com/AcademySoftwareFoundation/artwork/raw/master/other/aswf-member/premier/premier-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="other/aswf-member/premier/premier-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
 <a href="examples/other#aswf-zoom-backgrounds">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="https://artwork.aswf.io/other/zoom-backgrounds/ASWF_ZoomBG_v4_A.png"></div><div class="imagesquarecta">View Zoom Backgrounds »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="other/zoom-backgrounds/ASWF_ZoomBG_v4_A.png"></div><div class="imagesquarecta">View Zoom Backgrounds »</div></div>
 </div>
 </a>
 
 <a href="examples/other#linux-foundation-member-logos">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="https://artwork.aswf.io/other/lf-member/platinum/lf_mem_plat.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="other/lf-member/platinum/lf_mem_plat.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 

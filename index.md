@@ -10,20 +10,20 @@ permalink: /
 
     <h3>Adopted Projects</h3>
 
-<a href="/artwork-15/examples/adopted#opencolorio-logos">
+<a href="examples/adopted#opencolorio-logos">
 <div class="outer-wrapper">
 <div class="imagesquare">
 <div class="imagecontainer"><img src="https://github.com/AcademySoftwareFoundation/artwork/raw/master/projects/opencolorio/opencolorio-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="/artwork-15/examples/adopted#openexr-logos">
+<a href="examples/adopted#openexr-logos">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="https://github.com/AcademySoftwareFoundation/artwork/raw/master/projects/openexr/svg/color/openexr-stacked-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="/artwork-15/examples/adopted#openvdb-logos">
+<a href="examples/adopted#openvdb-logos">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="https://github.com/AcademySoftwareFoundation/artwork/raw/master/projects/openvdb/openvdb-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
@@ -31,18 +31,18 @@ permalink: /
 
 <h3>Incubating Projects</h3>
 
-<a href="/artwork-15/examples/incubating#opencue-logos">
+<a href="examples/incubating#opencue-logos">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="https://github.com/AcademySoftwareFoundation/artwork/raw/master/projects/opencue/opencue-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
-<a href="/artwork-15/examples/incubating#open-shading-language-logos">
+<a href="examples/incubating#open-shading-language-logos">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="https://github.com/AcademySoftwareFoundation/artwork/raw/master/projects/openshadinglanguage/openshadinglanguage-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="/artwork-15/examples/incubating#opentimelineio-logos">
+<a href="examples/incubating#opentimelineio-logos">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="https://github.com/AcademySoftwareFoundation/artwork/raw/master/projects/opentimelineio/opentimelineio-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
@@ -50,13 +50,13 @@ permalink: /
 
 <h3>Other Logos</h3>
 
-<a href="/artwork-15/examples/other#aswf-logos">
+<a href="examples/other#aswf-logos">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="https://github.com/AcademySoftwareFoundation/artwork/raw/master/other/aswf/aqua/aqua-logo.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="/artwork-15/examples/other#aswf-member-logos">
+<a href="examples/other#aswf-member-logos">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="https://github.com/AcademySoftwareFoundation/artwork/raw/master/other/aswf-member/premier/premier-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>

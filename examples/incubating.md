@@ -12,8 +12,8 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><a href="../projects/opencue/opencue-color.png" download><img src="../projects/opencue/opencue-color.png" width="200"></a></td>
-        <td><a href="../projects/opencue/opencue-color.svg" download><img src="../projects/opencue/opencue-color.svg" width="200"></a></td>
+        <td class="download-icon"><a href="../projects/opencue/opencue-color.png" download><img src="../projects/opencue/opencue-color.png" width="200"></a></td>
+        <td class="download-icon"><a href="../projects/opencue/opencue-color.svg" download><img src="../projects/opencue/opencue-color.svg" width="200"></a></td>
     </tr>
     <!-- <tr>
         <th>black</th>
@@ -37,8 +37,8 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><a href="../projects/openshadinglanguage/openshadinglanguage-color.png" download><img src="../projects/openshadinglanguage/openshadinglanguage-color.png" width="200"></a></td>
-        <td><a href="../projects/openshadinglanguage/openshadinglanguage-color.svg" download><img src="../projects/openshadinglanguage/openshadinglanguage-color.svg" width="200"></a></td>
+        <td class="download-icon"><a href="../projects/openshadinglanguage/openshadinglanguage-color.png" download><img src="../projects/openshadinglanguage/openshadinglanguage-color.png" width="200"></a></td>
+        <td class="download-icon"><a href="../projects/openshadinglanguage/openshadinglanguage-color.svg" download><img src="../projects/openshadinglanguage/openshadinglanguage-color.svg" width="200"></a></td>
     </tr>
     <!-- <tr>
         <th>black</th>
@@ -62,8 +62,8 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><a href="../projects/opentimelineio/opentimelineio-color.png" download><img src="../projects/opentimelineio/opentimelineio-color.png" width="200"></a></td>
-        <td><a href="../projects/opentimelineio/opentimelineio-color.svg" download><img src="../projects/opentimelineio/opentimelineio-color.svg" width="200"></a></td>
+        <td class="download-icon"><a href="../projects/opentimelineio/opentimelineio-color.png" download><img src="../projects/opentimelineio/opentimelineio-color.png" width="200"></a></td>
+        <td class="download-icon"><a href="../projects/opentimelineio/opentimelineio-color.svg" download><img src="../projects/opentimelineio/opentimelineio-color.svg" width="200"></a></td>
     </tr>
     <!-- <tr>
         <th>black</th>

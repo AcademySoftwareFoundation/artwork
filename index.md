@@ -1,12 +1,14 @@
 ---
 layout: default
-title: ASWF Logos
+title: Academy Software Foundation (ASWF) Logos
 permalink: /
 ---
 
 <section>
   <div class="logos">
     <h2>Academy Software Foundation (ASWF) Logos</h2>
+    
+    <p>Use of any trademark or logo is subject to the trademark policy available at <a href="https://www.linuxfoundation.org/trademark-usage">https://www.linuxfoundation.org/trademark-usage</a> with the key excepts available at <a href="LICENSE.md">LICENSE.md</a>. Refer to the <a href="aswf-brand-book.pdf">ASWF Brand Book</a> for guidelines on how to use the logo. Questions? Please email <a href="mailto:info@aswf.io">info@aswf.io</a>.</p>
 
     <h3>Adopted Projects</h3>
 
@@ -50,13 +52,13 @@ permalink: /
 
 <h3>Other Logos</h3>
 
-<a href="examples/other#aswf-logos">
+<a href="examples/other#academy-software-foundation-aswf-logos">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="other/aswf/aqua/aqua-logo.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="examples/other#aswf-member-logos">
+<a href="examples/other#academy-software-foundation-aswf-member-logos">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="other/aswf-member/premier/premier-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>

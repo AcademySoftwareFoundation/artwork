@@ -52,6 +52,10 @@ a {
   text-decoration:none;
 }
 
+section a {
+  color: blue;
+}
+
 h1 {
     font-size: 2em;
     margin-top: 3%;
@@ -78,7 +82,6 @@ h3 {
 
 td, th, tr {
 border:1px solid #909090;
-padding:2%;
 font-weight:400;
 width:10%;
 position:relative;
@@ -86,12 +89,24 @@ position:relative;
 
 td img {
   width:100%;
+  padding:20px;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
 }
 
 table {
   width:65%;
   margin-bottom:5%;
   margin-top:2%;
+}
+
+table.logos-table tbody tr td {
+  background-image: url('https://image.flaticon.com/icons/svg/60/60721.svg');
+  background-size: 15px 15px;
+  background-repeat: no-repeat;
+  background-position: 5px 5px;
 }
 
 .icon {

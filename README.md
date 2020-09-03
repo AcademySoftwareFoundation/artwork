@@ -13,8 +13,8 @@ With many browsers, you can right click and copy the logo of your choice below. 
   * [Open Shading Language](examples/incubating.md#open-shading-language-logos)
   * [OpenTimelineIO](examples/incubating.md#opentimelineio-logos)
 * [Other ASWF Logos](examples/other.md)
-  * [ASWF](examples/other.md#aswf-logos)
-  * [ASWF Member](examples/other.md#aswf-member-logos)
+  * [ASWF](examples/other.md#academy-software-foundation-aswf-logos)
+  * [ASWF Member](examples/other.md#academy-software-foundation-aswf-member-logos)
   * [ASWF Zoom Backgrounds](examples/other.md#aswf-zoom-backgrounds)
   * [Linux Foundation Member](examples/other.md#linux-foundation-member-logos)
 

@@ -24,7 +24,7 @@
 
 ### OpenEXR Logos
 
-<table> class="logos-table">
+<table class="logos-table">
 	<thead>
 		<tr>
 			<th colspan="7"></th>

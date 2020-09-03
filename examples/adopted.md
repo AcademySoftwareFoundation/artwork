@@ -83,7 +83,7 @@
 		</tr>
 		<tr>
 			<th>logo source</th>
-			<th colspan="6"><a href="/projects/openexr/openexr-logosource.ai" style="color:black">openexr-logosource.ai</a></td>
+			<th colspan="6"><a href="/projects/openexr/openexr-logosource.ai" style="color:black">openexr-logosource.ai</a></th>
     	</tr>
 	</tbody>	
 </table>

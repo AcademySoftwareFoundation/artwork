@@ -15,7 +15,7 @@ permalink: /
 <a href="examples/adopted#opencolorio-logos">
 <div class="outer-wrapper">
 <div class="imagesquare">
-<div class="imagecontainer"><img src="projects/opencolorio/opencolorio-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagecontainer"><img src="projects/opencolorio/color/opencolorio-stacked-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 

@@ -5,21 +5,57 @@
 *Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
 
 ### OpenColorIO Logos
+
 <table class="logos-table">
 	<thead>
 		<tr>
 			<th></th>
-			<th>PNG</th>
-			<th>SVG</th>
+			<th colspan="3">PNG</th>
+			<th colspan="3">SVG</th>
 		</tr>
-	</thead>
-	<tbody>
+		<tr>
+			<th></th>
+			<th>horizontal</th>
+			<th>stacked</th>
+			<th>icon</th>
+			<th>horizontal</th>
+			<th>stacked</th>
+			<th>icon</th>
+		</tr>
+	</thead>	
+    <tbody>
 		<tr>
 			<th>color</th>
-			<td><a href="../projects/opencolorio/opencolorio-color.png" download><img src="../projects/opencolorio/opencolorio-color.png" width="200"></a></td>
-			<td><a href="../projects/opencolorio/opencolorio-color.svg" download><img src="../projects/opencolorio/opencolorio-color.svg" width="200"></a></td>
+			<td><a href="../projects/opencolorio/png/color/opencolorio-horizontal-color.png" download><img src="../projects/opencolorio/png/color/opencolorio-horizontal-color.png" width="200"></a></td>
+			<td><a href="../projects/opencolorio/png/color/opencolorio-stacked-color.png" download><img src="../projects/opencolorio/png/color/opencolorio-stacked-color.png" width="95"></a></td>
+			<td><a href="../projects/opencolorio/png/color/opencolorio-icon-color.png" download><img src="../projects/opencolorio/png/color/opencolorio-icon-color.png" width="75"></a></td>
+			<td><a href="../projects/opencolorio/svg/color/opencolorio-horizontal-color.svg" download><img src="../projects/opencolorio/svg/color/opencolorio-horizontal-color.svg" width="200"></a></td>
+			<td><a href="../projects/opencolorio/svg/color/opencolorio-stacked-color.svg" download><img src="../projects/opencolorio/svg/color/opencolorio-stacked-color.svg" width="95"></a></td>
+			<td><a href="../projects/opencolorio/svg/color/opencolorio-icon-color.svg" download><img src="../projects/opencolorio/svg/color/opencolorio-icon-color.svg" width="75"></a></td>
 		</tr>
-	</tbody>
+		<tr>
+			<th>white</th>
+			<td><a href="../projects/opencolorio/png/white/opencolorio-horizontal-white.png" download><img src="../projects/opencolorio/png/white/opencolorio-horizontal-white.png" width="200"></a></td>
+			<td><a href="../projects/opencolorio/png/white/opencolorio-stacked-white.png" download><img src="../projects/opencolorio/png/white/opencolorio-stacked-white.png" width="95"></a></td>
+			<td><a href="../projects/opencolorio/png/white/opencolorio-icon-white.png" download><img src="../projects/opencolorio/png/white/opencolorio-icon-white.png" width="75"></a></td>
+			<td><a href="../projects/opencolorio/svg/white/opencolorio-horizontal-white.svg" download><img src="../projects/opencolorio/svg/white/opencolorio-horizontal-white.svg" width="200"></a></td>
+			<td><a href="../projects/opencolorio/svg/white/opencolorio-stacked-white.svg" download><img src="../projects/opencolorio/svg/white/opencolorio-stacked-white.svg" width="95"></a></td>
+			<td><a href="../projects/opencolorio/svg/white/opencolorio-icon-white.svg" download><img src="../projects/opencolorio/svg/white/opencolorio-icon-white.svg" width="75"></a></td>
+		</tr>
+		<tr>
+			<th>black</th>
+			<td><a href="../projects/opencolorio/png/black/opencolorio-horizontal-black.png" download><img src="../projects/opencolorio/png/black/opencolorio-horizontal-black.png" width="200"></a></td>
+			<td><a href="../projects/opencolorio/png/black/opencolorio-stacked-black.png" download><img src="../projects/opencolorio/png/black/opencolorio-stacked-black.png" width="95"></a></td>
+			<td><a href="../projects/opencolorio/png/black/opencolorio-icon-black.png" download><img src="../projects/opencolorio/png/black/opencolorio-icon-black.png" width="75"></a></td>
+			<td><a href="../projects/opencolorio/svg/black/opencolorio-horizontal-black.svg" download><img src="../projects/opencolorio/svg/black/opencolorio-horizontal-black.svg" width="200"></a></td>
+			<td><a href="../projects/opencolorio/svg/black/opencolorio-stacked-black.svg" download><img src="../projects/opencolorio/svg/black/opencolorio-stacked-black.svg" width="95"></a></td>
+			<td><a href="../projects/opencolorio/svg/black/opencolorio-icon-black.svg" download><img src="../projects/opencolorio/svg/black/opencolorio-icon-black.svg" width="75"></a></td>
+		</tr>
+		<tr>
+			<th>branding guide</th>
+			<th colspan="6"><a href="/projects/opencolorio/opencolorio-branding-guide.pdf" style="color:black">opencolorio-branding-guide.pdf</a></th>
+    	</tr>
+	</tbody>	
 </table>
 
 ### OpenEXR Logos

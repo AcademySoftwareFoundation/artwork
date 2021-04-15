@@ -1,8 +1,15 @@
-name: ASWF Logos + Artwork
 title: Academy Software Foundation (ASWF) Logos
 description: >-
   Logos and artwork for Academy Software Foundation (ASWF) and it's hosted projects
 
 # Settings
+favicon: assets/img/favicon.png
+primary_logo: other/aswf/logo/aqua/aswf-logo-aqua.svg
+header_logo: other/aswf/logo/white/aswf-logo-white.svg
 github_repo: https://github.com/AcademySoftwareFoundation/artwork
+theme_color_1: 36b0c9
+theme_color_2: 159957 
+
+readme_index:
+  with_frontmatter: true
 

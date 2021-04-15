@@ -12,67 +12,67 @@ permalink: /
 
     <h3>Adopted Projects</h3>
 
-<a href="examples/adopted#opencolorio-logos">
+<a href="projects/opencolorio">
 <div class="outer-wrapper">
 <div class="imagesquare">
-<div class="imagecontainer"><img src="projects/opencolorio/svg/color/opencolorio-stacked-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagecontainer"><img src="projects/opencolorio/stacked/color/opencolorio-stacked-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="examples/adopted#openexr-logos">
+<a href="projects/openexr">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="projects/openexr/svg/color/openexr-stacked-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/openexr/stacked/color/openexr-stacked-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="examples/adopted#openvdb-logos">
+<a href="projects/openvdb">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="projects/openvdb/openvdb-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/openvdb/stacked/color/openvdb-stacked-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
 <h3>Incubating Projects</h3>
 
-<a href="examples/incubating#opencue-logos">
+<a href="projects/opencue">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="projects/opencue/opencue-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/opencue/stacked/color/opencue-stacked-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
-<a href="examples/incubating#open-shading-language-logos">
+<a href="projects/open-shading-language">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="https://github.com/AcademySoftwareFoundation/artwork/raw/master/projects/openshadinglanguage/openshadinglanguage-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/openshadinglanguage/stacked/color/openshadinglanguage-stacked-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="examples/incubating#opentimelineio-logos">
+<a href="projects/opentimelineio">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="projects/opentimelineio/opentimelineio-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/opentimelineio/horizontal/color/opentimelineio-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
 <h3>Other Logos</h3>
 
-<a href="examples/other#academy-software-foundation-aswf-logos">
+<a href="other/aswf">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="other/aswf/aqua/aqua-logo.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="other/aswf/logo/aqua/aswf-logo-aqua.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="examples/other#academy-software-foundation-aswf-member-logos">
+<a href="other/aswf-member">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="other/aswf-member/premier/premier-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="other/aswf-member/premier/color/aswf-member-premier-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="examples/other#aswf-zoom-backgrounds">
+<a href="other/aswf-zoom-backgrounds">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="other/zoom-backgrounds/ASWF_ZoomBG_v4_A.png"></div><div class="imagesquarecta">View Zoom Backgrounds »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="other/aswf-zoom-backgrounds/ASWF_ZoomBG_v4_A.png"></div><div class="imagesquarecta">View Zoom Backgrounds »</div></div>
 </div>
 </a>
 
-<a href="examples/other#linux-foundation-member-logos">
+<a href="other/tlf-member">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="other/lf-member/platinum/lf_mem_plat.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="other/tlf-member/horizontal/platinum/tlf-member-horizontal-platinum.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 

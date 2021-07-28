@@ -33,6 +33,11 @@ permalink: /
 
 <h3>Incubating Projects</h3>
 
+<a href="projects/materialx">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/materialx/stacked/color/materialx-stacked-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
 <a href="projects/opencue">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/opencue/stacked/color/opencue-stacked-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>

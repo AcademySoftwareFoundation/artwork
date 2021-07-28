@@ -9,6 +9,7 @@ With many browsers, you can right click and copy the logo of your choice below. 
   * [OpenEXR](projects/openexr)
   * [OpenVDB](projects/openvdb)
 * Incubating Projects
+  * [MaterialX](projects/materialx)
   * [OpenCue](projects/opencue)
   * [Open Shading Language](projects/openshadinglanguage)
   * [OpenTimelineIO](projects/opentimelineio)

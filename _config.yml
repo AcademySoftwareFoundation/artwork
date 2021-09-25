@@ -10,6 +10,13 @@ github_repo: https://github.com/AcademySoftwareFoundation/artwork
 theme_color_1: 36b0c9
 theme_color_2: 159957 
 
+trademark_text: Use of any trademark or logo is subject to the trademark policy available at <a href="https://www.linuxfoundation.org/trademark-usage">https://www.linuxfoundation.org/trademark-usage</a> with the key excepts available at <a href="LICENSE.md">LICENSE.md</a>. Refer to the <a href="aswf-brand-book.pdf">ASWF Brand Book</a> for guidelines on how to use the logo. Questions? Please email <a href="mailto:info@aswf.io">info@aswf.io</a>. 
+
+logo_categories: 
+  - Incubating Projects
+  - Adopted Projects
+  - Other Logos
+
 readme_index:
   with_frontmatter: true
 

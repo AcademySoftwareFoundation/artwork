@@ -10,7 +10,6 @@ permalink: /
     
     <p>{{ site.trademark_text }}</p>
 
-{{ site.categories }}
 {% for category in site.logo_categories %}
 {% assign logo_groups = site.pages | where: "level", category | sort: "project_name" | sort: "order" %}
 {% for logo_group in logo_groups %}

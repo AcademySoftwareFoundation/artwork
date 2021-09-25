@@ -1,7 +1,7 @@
 ---
-project_name: OpenTimelineIO
+title: OpenTimelineIO
 level: Incubating Projects
 featured_image: horizontal/color/opentimelineio-horizontal-color.svg
-layout: project
+layout: logos
 description: Artwork for the OpenTimelineIO project
 ---

@@ -1,7 +1,7 @@
 ---
-project_name: OpenEXR
+title: OpenEXR
 level: Adopted Projects
 featured_image: stacked/color/openexr-stacked-color.svg
-layout: project
+layout: logos
 description: Artwork for the OpenEXR project
 ---

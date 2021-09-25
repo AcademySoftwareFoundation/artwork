@@ -1,7 +1,7 @@
 ---
-project_name: Open Shading Language
+title: Open Shading Language
 level: Incubating Projects
 featured_image: stacked/color/openshadinglanguage-stacked-color.svg
-layout: project
+layout: logos
 description: Artwork for the Open Shading Language project
 ---

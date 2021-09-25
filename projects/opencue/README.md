@@ -1,7 +1,7 @@
 ---
-project_name: OpenCueIO
+title: OpenCueIO
 level: Adopted Projects
 featured_image: stacked/color/opencue-stacked-color.svg
-layout: project
+layout: logos
 description: Artwork for the OpenCue project
 ---

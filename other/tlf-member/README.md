@@ -1,6 +1,6 @@
 ---
 description: Member artwork for The Linux Foundation
-project_name: The Linux Foundation Member Logos
+title: The Linux Foundation Member Logos
 level: Other Logos
 featured_image: horizontal/platinum/tlf-member-horizontal-platinum.svg
 order: 99

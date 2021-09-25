@@ -1,7 +1,7 @@
 ---
-project_name: OpenVDB
+title: OpenVDB
 level: Adopted Projects
 featured_image: stacked/color/openvdb-stacked-color.svg
-layout: project
+layout: logos
 description: Artwork for the OpenVDB project
 ---

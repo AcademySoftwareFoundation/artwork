@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  <link rel="image_src" href="{% if page.featured_image %}{{ page.featured_image | relative_url }}{% else %}{{ site.primary_logo | relative_url }}{% endif %}">
+  <link rel="image_src" href="{% if page.primary_logo %}{{ page.primary_logo | relative_url }}{% else %}{{ site.primary_logo | relative_url }}{% endif %}">
   <link rel="shortcut icon" href="{{ site.favicon | relative_url }}">
   <link rel="stylesheet" type="text/css" href="{{ "/assets/css/style.css" | relative_url }}">
   <link rel="stylesheet" type="text/css" href="{{ "/assets/css/style2.css" | relative_url }}">

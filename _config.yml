@@ -1,27 +1,14 @@
-title: PROJECTNAME Logos
+title: Academy Software Foundation (ASWF) Logos
 description: >-
-  Logos and artwork for PROJECTLOGO and it's hosted projects
+  Logos and artwork for Academy Software Foundation (ASWF) and it's hosted projects
 
-# favicon for the site
+# Settings
 favicon: assets/img/favicon.png
-# primary project logo - used as the logo that will show up in search results
 primary_logo: other/aswf/logo/aqua/aswf-logo-aqua.svg
-# header for the logo - usually this will be the primary logo in a white out version
 header_logo: other/aswf/logo/white/aswf-logo-white.svg
-# GH repo this is at
-github_repo: https://github.com/jmertic/artwork-template
-# gradiant colors for the headers: theme_color_1 -> theme_color_2
+github_repo: https://github.com/AcademySoftwareFoundation/artwork
 theme_color_1: 36b0c9
 theme_color_2: 159957 
-# optionally, specify a header background image
-header_image:
-# text for the home page which outlines how the images should be used ( licensing and trademark stuff )
-trademark_text: Use of any trademark or logo is subject to the trademark policy available at <a href="https://www.linuxfoundation.org/trademark-usage">https://www.linuxfoundation.org/trademark-usage</a> with the key excepts available at <a href="LICENSE.md">LICENSE.md</a>. Questions? Please email <a href="mailto:info@projectname.org">info@projectname.org</a>. 
-# categories for projects, used in the front matter for each project page
-logo_categories:
-  - Incubating
-  - Adopted
-# text on main logo page outlining trademark policy.
 trademark_text: Use of any trademark or logo is subject to the trademark policy available at <a href="https://www.linuxfoundation.org/trademark-usage">https://www.linuxfoundation.org/trademark-usage</a> with the key excepts available at <a href="LICENSE.md">LICENSE.md</a>. Refer to the <a href="aswf-brand-book.pdf">ASWF Brand Book</a> for guidelines on how to use the logo. Questions? Please email <a href="mailto:info@aswf.io">info@aswf.io</a>. 
 # categories of logos, for grouping on main logo page. Must match level: in front matter of each logoset README.md file
 logo_categories: 
@@ -29,7 +16,6 @@ logo_categories:
   - Adopted Projects
   - Other Logos
 
->>>>>>> 87eb1ac00021098072f9a7c0dd21f18b3e266d93
 # don't touch ;-)  
 readme_index:
   with_frontmatter: true

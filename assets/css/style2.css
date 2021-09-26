@@ -16,6 +16,11 @@ html {
   font-family:Roboto,-apple-system,BlinkMacSystemFont,"Helvetica Neue","Segoe UI","Oxygen","Ubuntu","Cantarell","Open Sans",sans-serif;
 }
 
+section {
+  background:url("../img/aswf_bg.jpg");
+  background-size:cover;
+}
+
 .container {
   width:100% !important;
 }

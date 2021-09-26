@@ -1,10 +1,48 @@
-## Academy Software Foundation (ASWF) Logos
+# Artwork Repository Template
 
-In this repo, we have artwork in standard formats for the ASWF [projects](https://www.aswf.io/projects) and programs. We prepare artwork in 2 formats (PNG & SVG) and at least 3 versions (color/black/white).
+This template repo is designed for a project to showcase logos easily in multiple formats. Generally speaking, a given project will prepare artwork in 2 formats (PNG & SVG) and at least 3 versions (color/black/white).
 
-With many browsers, you can right click and copy the logo of your choice below. Please note that although PNG is more common, SVG file sizes are smaller, supported in all modern web browsers, and a high-resolution format suitable for both print and high-resolution computer screens.
+# How to use this template
 
-Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage with the key excepts available at [LICENSE.md](LICENSE.md). Refer to the [ASWF Brand Book](aswf-brand-book.pdf) for guidelines on how to use the logo.
+After creating a new repository based on this template, there are generally three things you will need to do.
 
+## Setup the \_config.yml file
 
-Questions? Please email [info@aswf.io](mailto:info@aswf.io).
+The [\_config.yml](\_config.yml) file contains the base settings for the artwork repo, including naming, color schemes, default logos, and more. The file is well commented with the different options available.
+
+## Create folders for each logo set
+
+Next you will create folders for each logo set. You can either create the folders in a flat structure in the root directory of the repository, or have a nested structure to group like logo sets together ( for example, projects and other logos ).
+
+In each folder, the key file to include is the `README.md` file. This file defines the layout for the logo set in the page, either using the default logo layout or by providing HTML and Markdown for a custom layout. Front matter options are as below:
+
+```markdown
+---
+project_name: PROJECTNAME
+description: __page description that will show in search results__
+level: __grouping level for the main logo listing; must match the config setting category__
+featured_image: __relative path to the feature image to use on the main logo listing__
+layout: project ( default option, but can leave blank to put your own HTML in here )
+---
+```
+
+## Add the images
+
+The directory structure under the folder should look like...
+
+logosetname
++--format1
+  |--color1
+    |--logosetname-format1-color1.svg
+    |--logosetname-format1-color1.png
+  |--color2
+    |--logosetname-format1-color2.svg
+    |--logosetname-format1-color2.png
++--format2
+  |--color1
+    |--logosetname-format2-color1.svg
+    |--logosetname-format2-color1.png
+  |--color2
+    |--logosetname-format2-color2.svg
+    |--logosetname-format2-color2.png
+

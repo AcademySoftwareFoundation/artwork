@@ -135,7 +135,7 @@ table.logos-table tbody tr td {
   width:100%;
   padding:10%;
   display: block;
-
+  max-height: 150px
 }
 
 em {

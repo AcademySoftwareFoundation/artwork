@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+<h1>{{page.title}}</h1>
+
+<p><i>Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.</i></p>
+
+{% assign image_types = "" | split: "," %}
+{% assign image_colors = "" | split: "," %}
+{% for file in site.static_files %}
+{% if file.path contains page.dir and file.path contains ".svg" %}
+{% assign path = file.path | split: "/" %}
+{% assign image_colors = image_colors | push: path[4] %}
+{% assign image_types = image_types | push: path[3] %}
+{% endif %}
+{% endfor %}
+
+{% assign image_types = image_types | uniq | compact %}
+{% assign image_colors = image_colors | uniq | compact %}
+{% assign project_slug = page.url | split: "/" | last %}
+
+<table class="logos-table">
+<thead>
+		<tr>
+			<th></th>
+			<th colspan="{{image_types | size}}">PNG</th>
+			<th colspan="{{image_types | size}}">SVG</th>
+		</tr>
+		<tr>
+			<th></th>
+{% for image_type in image_types %}
+			<th>{{image_type}}</th>
+{% endfor %}
+{% for image_type in image_types %}
+			<th>{{image_type}}</th>
+{% endfor %}
+		</tr>
+	</thead>	
+    <tbody>
+        {% for image_color in image_colors %}
+        <tr>
+            <th>{{image_color}}</th>
+            {% for image_type in image_types %}
+            <td><a href="{{image_type}}/{{image_color}}/{{project_slug}}-{{image_type}}-{{image_color}}.png" download><img src="{{image_type}}/{{image_color}}/{{project_slug}}-{{image_type}}-{{image_color}}.png" width="200"></a></td>
+            {% endfor %}
+            {% for image_type in image_types %}
+            <td><a href="{{image_type}}/{{image_color}}/{{project_slug}}-{{image_type}}-{{image_color}}.svg" download><img src="{{image_type}}/{{image_color}}/{{project_slug}}-{{image_type}}-{{image_color}}.svg" width="200"></a></td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+{{ content }}

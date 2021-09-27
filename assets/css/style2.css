@@ -175,7 +175,7 @@ em {
   width:100%;
 }
 
-.logos {
+.logos:not(body.logos) {
   padding-left:10%;
   padding-right:10%;
   padding-top:2%;

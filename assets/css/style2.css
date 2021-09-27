@@ -203,7 +203,7 @@ button {
     margin-bottom:5%;
   }
 
-  .logos {
+  .logos:not(body.logos)  {
     padding-left:5%;
     padding-right:5%;
     padding-top:2%;

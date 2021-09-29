@@ -9,10 +9,12 @@ layout: default
 {% assign image_types = "" | split: "," %}
 {% assign image_colors = "" | split: "," %}
 {% for file in site.static_files %}
-{% if file.path contains page.dir and file.path contains ".svg" %}
+{% if file.path contains page.dir %}
+{% if file.path contains ".svg" or file.path contains ".png" %}
 {% assign path = file.path | split: "/" %}
 {% assign image_colors = image_colors | push: path[4] %}
 {% assign image_types = image_types | push: path[3] %}
+{% endif %}
 {% endif %}
 {% endfor %}
 
@@ -27,20 +29,22 @@ layout: default
 			<th colspan="{{image_types | size}}">PNG</th>
 			<th colspan="{{image_types | size}}">SVG</th>
 		</tr>
+{% if image_types.size > 1 %}
 		<tr>
 			<th></th>
 {% for image_type in image_types %}
-			<th>{{image_type}}</th>
+			<th>{{image_type | capitalize }}</th>
 {% endfor %}
 {% for image_type in image_types %}
-			<th>{{image_type}}</th>
+			<th>{{image_type | capitalize }}</th>
 {% endfor %}
 		</tr>
+{% endif %}
 	</thead>	
     <tbody>
         {% for image_color in image_colors %}
         <tr>
-            <th>{{image_color}}</th>
+            <th>{{image_color | capitalize}}</th>
             {% for image_type in image_types %}
             <td><a href="{{image_type}}/{{image_color}}/{{project_slug}}-{{image_type}}-{{image_color}}.png" download><img src="{{image_type}}/{{image_color}}/{{project_slug}}-{{image_type}}-{{image_color}}.png" width="200"></a></td>
             {% endfor %}

@@ -101,8 +101,12 @@ td img {
   padding:20px;
 }
 
-tbody tr:nth-child(even) {
+tbody tr:nth-child(odd) {
   background-color: #f2f2f2;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #c2c2c2;
 }
 
 table {
@@ -140,7 +144,11 @@ table.logos-table tbody tr td {
   width:100%;
   padding:10%;
   display: block;
-  max-height: 150px
+  max-height: 150px;
+  max-width: 250px;
+  height: auto;
+  width: auto;
+  margin: auto;
 }
 
 em {

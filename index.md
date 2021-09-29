@@ -1,17 +1,16 @@
 ---
 layout: default
-title: Academy Software Foundation (ASWF) Logos
 permalink: /
 ---
 
 <section>
   <div class="logos">
-    <h2>{{ page.title }}</h2>
+    <h2>{{ site.title }}</h2>
     
     <p>{{ site.trademark_text }}</p>
 
 {% for category in site.logo_categories %}
-{% assign logo_groups = site.pages | where: "level", category | sort: "title" | sort: "order" %}
+{% assign logo_groups = site.pages | where: "level", category | sort_natural: "title" | sort: "order" %}
 {% for logo_group in logo_groups %}
 {% if forloop.first %}
 <h3>{{ category }}</h3>

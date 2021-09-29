@@ -115,7 +115,7 @@ table {
   margin-top:2%;
 }
 
-table.logos-table tbody tr td {
+table.logos-table tbody tr td:not(.empty) {
   background-image: url('https://image.flaticon.com/icons/svg/60/60721.svg');
   background-size: 15px 15px;
   background-repeat: no-repeat;

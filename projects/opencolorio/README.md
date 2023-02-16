@@ -6,3 +6,6 @@ layout: logos
 description: Artwork for the OpenColorIO project
 ---
 
+[Branding Guide](opencolorio-branding-guide.pdf)
+
+[Full Artwork Package](ocio_logo.zip)

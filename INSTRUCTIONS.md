@@ -11,33 +11,33 @@
   - horizontal
     - color
       <project name>-horizontal-color.svg
-      <project name>-horizontal-color.svg
+      <project name>-horizontal-color.png
     - white
       <project name>-horizontal-white.svg
-      <project name>-horizontal-white.svg
+      <project name>-horizontal-white.png
     - black
       <project name>-horizontal-black.svg
-      <project name>-horizontal-black.svg
+      <project name>-horizontal-black.png
   - stacked
     - color
       <project name>-stacked-color.svg
-      <project name>-stacked-color.svg
+      <project name>-stacked-color.png
     - white
       <project name>-stacked-white.svg
-      <project name>-stacked-white.svg
+      <project name>-stacked-white.png
     - black
       <project name>-stacked-black.svg
-      <project name>-stacked-black.svg
+      <project name>-stacked-black.png
   - icon
     - color
       <project name>-icon-color.svg
-      <project name>-icon-color.svg
+      <project name>-icon-color.png
     - white
       <project name>-icon-white.svg
-      <project name>-icon-white.svg
+      <project name>-icon-white.png
     - black
       <project name>-icon-black.svg
-      <project name>-icon-black.svg
+      <project name>-icon-black.png
 ```
         
 If you are using the GitHub web client, the easiest thing to do is create the folder structure on your local machine, and then go to the `projects` directory and follow the instructions for [uploading a folder/file to the repository](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository)

@@ -1,7 +1,7 @@
 ---
-title: Rez
-level: Incubating Projects
-featured_image: stacked/black/rez-stacked-black.svg
+title: D&I Working Group
+level: Working Groups
+featured_image: horizontal/color/diversity-inclusion-wg-horizontal-color.svg
 layout: logos
-description: Artwork for the Rez project
+description: Artwork for the D&I Working Group
 ---

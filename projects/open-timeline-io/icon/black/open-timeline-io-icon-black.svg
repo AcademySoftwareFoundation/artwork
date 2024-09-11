@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="413"
+   height="298"
+   version="1.1"
+   id="svg70"
+   sodipodi:docname="opentimelineio-icon-black.svg"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   inkscape:export-filename="/Users/johnmertic/Code/aswf-artwork/projects/opentimelineio/icon/black/opentimelineio-icon-black.png"
+   inkscape:export-xdpi="377.10001"
+   inkscape:export-ydpi="377.10001"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata76">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs74" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     id="namedview72"
+     showgrid="false"
+     inkscape:zoom="0.42"
+     inkscape:cx="-230.95238"
+     inkscape:cy="682.14286"
+     inkscape:window-x="1951"
+     inkscape:window-y="349"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg70"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0" />
+  <g
+     id="g310"
+     transform="translate(0.5,0.5)">
+    <path
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       opacity="0.988235"
+       d="m 110,74 h 83 v 46 h -83 z"
+       id="path24" />
+    <path
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       opacity="0.988235"
+       d="m 212,74 h 199.5 l 0.5,0.5 V 120 H 212.5 l -0.5,-0.5 z"
+       id="path26" />
+    <path
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       opacity="0.988235"
+       d="m 0,252 h 192.5 l 0.5,0.5 V 297 H 0.5 L 0,296.5 Z"
+       id="path28" />
+    <path
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1"
+       opacity="0.988235"
+       d="m 212,252 h 86 v 45 h -86 z"
+       id="path30" />
+    <path
+       fill="rgb(152,194,79)"
+       stroke="rgb(152,194,79)"
+       stroke-width="1"
+       opacity="0.984314"
+       d="m 152.5,0 h 99 l 3.5,2.5 v 7 l -10.5,10.5 -34,33 -6,5 h -4 L 149,8.5 Q 147.8,1.3 152.5,0 Z"
+       id="path32"
+       style="fill:#000000;stroke:#000000" />
+    <path
+       fill="rgb(152,194,79)"
+       stroke="rgb(152,194,79)"
+       stroke-width="1"
+       opacity="0.984314"
+       d="m 1,139 h 192 v 95 H 1 Z"
+       id="path34"
+       style="fill:#000000;stroke:#000000" />
+    <path
+       fill="rgb(152,194,79)"
+       stroke="rgb(152,194,79)"
+       stroke-width="1"
+       opacity="0.984314"
+       d="m 212,139 h 200 v 95 H 212 Z"
+       id="path36"
+       style="fill:#000000;stroke:#000000" />
+  </g>
+</svg>

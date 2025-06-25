@@ -1,7 +1,7 @@
 ---
 title: OpenImageIO
-level: Incubating Projects
-featured_image: acronym/color/openimageio-acronym-color.svg
+level: Adopted Projects
+featured_image: stacked/color/openimageio-stacked-color.svg
 layout: logos
 description: Artwork for the OpenImageIO project
 ---

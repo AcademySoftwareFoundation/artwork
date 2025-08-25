@@ -1,6 +1,6 @@
 ---
 title: Open Shading Language
-level: Adopted Projects
+level: Graduated Projects
 featured_image: largestack/color/open-shading-language-largestack-color.svg
 layout: logos
 description: Artwork for the Open Shading Language project

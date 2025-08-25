@@ -12,7 +12,7 @@ theme_color_1: 36b0c9
 theme_color_2: 159957 
 # categories of logos, for grouping on main logo page. Must match level: in front matter of each logoset README.md file
 logo_categories: 
-  - Adopted Projects
+  - Graduated Projects
   - Incubating Projects
   - Sandbox Projects
   - Working Groups

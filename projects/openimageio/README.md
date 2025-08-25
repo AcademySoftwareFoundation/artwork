@@ -1,6 +1,6 @@
 ---
 title: OpenImageIO
-level: Adopted Projects
+level: Graduated Projects
 featured_image: stacked/color/openimageio-stacked-color.svg
 layout: logos
 description: Artwork for the OpenImageIO project

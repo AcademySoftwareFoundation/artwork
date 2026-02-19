@@ -31,7 +31,7 @@ defaults:
       layout: "logos"
       level: "Projects"
   - scope:
-      path: "working_groups"     # directory (relative to site root)
+      path: "working-groups"     # directory (relative to site root)
       type: "pages"    # usually "pages"
     values:
       layout: "logos"

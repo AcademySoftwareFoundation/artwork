@@ -1,9 +1,6 @@
 ---
 title: OpenColorIO
-level: Graduated Projects 
 featured_image: stacked/color/opencolorio-stacked-color.svg
-layout: logos
-description: Artwork for the OpenColorIO project
 ---
 
 [Branding Guide](opencolorio-branding-guide.pdf)

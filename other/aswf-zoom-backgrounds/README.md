@@ -1,8 +1,7 @@
 ---
-description: Academy Software Foundation (ASWF) Zoom Backgrounds
-project_name: Academy Software Foundation (ASWF) Zoom Backgrounds
-featured_image: ASWF_ZoomBG_v4_A.png 
-level: Other Logos
+title: Academy Software Foundation (ASWF) Zoom Backgrounds
+featured_image: ASWF_ZoomBG_v4_A.png
+layout: default
 order: 3
 ---
 

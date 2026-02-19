@@ -9,18 +9,35 @@ header_logo: other/aswf/logo/white/aswf-logo-white.svg
 github_repo: https://github.com/AcademySoftwareFoundation/artwork
 section_image: assets/img/aswf_bg.jpg
 theme_color_1: 36b0c9
-theme_color_2: 159957 
+theme_color_2: 159957
 # categories of logos, for grouping on main logo page. Must match level: in front matter of each logoset README.md file
-logo_categories: 
-  - Graduated Projects
-  - Incubating Projects
-  - Sandbox Projects
+logo_categories:
+  - Projects
   - Working Groups
-  - Long Term Working Groups
   - Other Logos
 ga_tracking_id: 360578303
 
-# don't touch ;-)  
+defaults:
+  - scope:
+      path: "other"     # directory (relative to site root)
+      type: "pages"    # usually "pages"
+    values:
+      layout: "logos"
+      level: "Other Logos"
+  - scope:
+      path: "projects"     # directory (relative to site root)
+      type: "pages"    # usually "pages"
+    values:
+      layout: "logos"
+      level: "Projects"
+  - scope:
+      path: "working_groups"     # directory (relative to site root)
+      type: "pages"    # usually "pages"
+    values:
+      layout: "logos"
+      level: "Working Groups"
+
+# don't touch ;-)
 readme_index:
   with_frontmatter: true
 plugins:

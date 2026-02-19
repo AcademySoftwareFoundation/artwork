@@ -1,9 +1,6 @@
 ---
 title: OpenImageIO
-level: Graduated Projects
 featured_image: stacked/color/openimageio-stacked-color.svg
-layout: logos
-description: Artwork for the OpenImageIO project
 ---
 
 [Branding Guide](openimageio-branding-guidelines.pdf)
@@ -11,4 +8,3 @@ description: Artwork for the OpenImageIO project
 [Icon in JPEG format](Icon.jpeg)
 
 [Promo Card](Promo Card.jpeg)
-

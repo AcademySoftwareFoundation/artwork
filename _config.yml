@@ -42,4 +42,4 @@ readme_index:
   with_frontmatter: true
 plugins:
   - jekyll-remote-theme
-remote_theme: jmertic/artwork-template@latest
+remote_theme: jmertic/artwork-template

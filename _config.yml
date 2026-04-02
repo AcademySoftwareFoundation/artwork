@@ -16,6 +16,7 @@ logo_categories:
   - Working Groups
   - Other Logos
 ga_tracking_id: 360578303
+clotributor_category_default: Visual Effects and Computer Graphics
 
 defaults:
   - scope:

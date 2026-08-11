@@ -2,7 +2,7 @@
 
 `<project full name>` is the display name for the project ( e.g. 'OpenEXR' )
 
-`<project name>` is the name of the project in the filesystem ( e.g. 'openexr' )
+`<project name>` is the name of the project in the filesystem ( e.g. 'openleadr' ). This must match the `slug` for the project as defined in LFX PCC, and be all lowercase.
 
 1. Add a new directory under `projects` with the artwork. Artwork directory structure should map as follows...
 
@@ -46,10 +46,7 @@ If you are using the GitHub web client, the easiest thing to do is create the fo
 
 ```markdown
 ---
-description: Artwork for the <project full name> project
 title: <project full name> 
-level: <project level: match string on home page> 
-featured_image: <relative path to the image to show on the home page> 
-layout: logos
+featured_image: <relative path to the image to show on the home page>
 ---
 ```

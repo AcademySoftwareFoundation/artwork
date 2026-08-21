@@ -9,7 +9,6 @@ github_repo: https://github.com/AcademySoftwareFoundation/artwork
 section_image: assets/img/section-background.jpg
 theme_color_1: 36b0c9
 theme_color_2: 159957
-favicon: assets/img/favicon.png
 # categories of logos, for grouping on main logo page. Must match level: in front matter of each logoset README.md file
 logo_categories:
   - Projects
@@ -44,3 +43,9 @@ readme_index:
 plugins:
   - jekyll-remote-theme
 remote_theme: jmertic/artwork-template
+exclude:
+  - vendor
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - lfess-artwork

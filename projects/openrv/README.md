@@ -1,4 +1,4 @@
 ---
+featured_image: primary/color/openrv-primary-color.svg
 title: Open RV
-featured_image: horizontal/black/openrv-horizontal-black.svg
 ---

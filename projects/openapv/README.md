@@ -1,4 +1,4 @@
 ---
+featured_image: primary/color/openapv-primary-color.svg
 title: OpenAPV
-featured_image: horizontal/black/openapv-horizontal-black.svg
 ---

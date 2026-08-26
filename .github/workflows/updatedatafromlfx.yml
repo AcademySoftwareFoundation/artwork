@@ -1,0 +1,20 @@
+name: Update Data From LFX
+on:
+  schedule:
+    - cron: '0 13 * * *'
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: jmertic/lfx-tac-actions@7b0810791d6ebc84594ae2e409bb4c1ffa4ebb06 # 20260815
+        with:
+          updateprojects: false
+          updatetacmembers: false
+          updatetacagendaitems: false
+          updateclomonitor: false
+          updateartwork: true
+          slug: aswf
+        env:
+          repository: ${{ github.repository }}
+          ref: ${{ github.ref }}

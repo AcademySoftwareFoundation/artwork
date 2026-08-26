@@ -1,4 +1,4 @@
 ---
+featured_image: primary/color/open-timeline-io-primary-color.svg
 title: OpenTimelineIO
-featured_image: stacked/color/open-timeline-io-stacked-color.svg
 ---

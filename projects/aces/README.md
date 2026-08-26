@@ -1,4 +1,4 @@
 ---
-title: ACES
-featured_image: full/color/aces-full-color.svg
+featured_image: primary/color/aces-primary-color.svg
+title: Academy Color Encoding System (ACES)
 ---

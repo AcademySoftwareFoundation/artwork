@@ -1,5 +1,4 @@
 ---
+featured_image: primary/color/openassetio-primary-color.svg
 title: OpenAssetIO
-featured_image: horizontal/black/openassetio-horizontal-black.svg
 ---
-

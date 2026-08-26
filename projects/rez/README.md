@@ -1,4 +1,4 @@
 ---
+featured_image: primary/color/rez-primary-color.svg
 title: Rez
-featured_image: stacked/black/rez-stacked-black.svg
 ---

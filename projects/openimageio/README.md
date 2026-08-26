@@ -1,6 +1,6 @@
 ---
+featured_image: primary/color/openimageio-primary-color.svg
 title: OpenImageIO
-featured_image: stacked/color/openimageio-stacked-color.svg
 ---
 
 [Branding Guide](openimageio-branding-guidelines.pdf)

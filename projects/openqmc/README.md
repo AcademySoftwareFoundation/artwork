@@ -1,4 +1,4 @@
 ---
+featured_image: primary/color/openqmc-primary-color.svg
 title: OpenQMC
-featured_image: horizontal/black/openqmc-horizontal-black.svg
 ---

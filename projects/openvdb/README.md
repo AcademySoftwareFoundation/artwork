@@ -1,4 +1,4 @@
 ---
+featured_image: primary/color/openvdb-primary-color.svg
 title: OpenVDB
-featured_image: stacked/color/openvdb-stacked-color.svg
 ---

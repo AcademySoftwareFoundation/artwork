@@ -1,4 +1,4 @@
 ---
+featured_image: primary/color/opencue-primary-color.svg
 title: OpenCue
-featured_image: stacked/black/opencue-stacked-black.svg
 ---

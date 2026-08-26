@@ -1,4 +1,4 @@
 ---
+featured_image: primary/color/rawtoaces-primary-color.svg
 title: rawtoaces
-featured_image: horizontal/color/rawtoaces-horizontal-color.svg
 ---

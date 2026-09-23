@@ -1,8 +1,7 @@
 ---
-title: OpenImageIO
-featured_image: stacked/color/openimageio-stacked-color.svg
+project: OpenImageIO
+featured_image: primary/color/openimageio-primary-color.svg
 ---
-
 [Branding Guide](openimageio-branding-guidelines.pdf)
 
 [Icon in JPEG format](Icon.jpeg)

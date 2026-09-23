@@ -1,4 +1,4 @@
 ---
-title: MoonRay
-featured_image: rgb/color/moonray-rgb-color.svg
+project: MoonRay
+featured_image: primary/color/moonray-primary-color.svg
 ---

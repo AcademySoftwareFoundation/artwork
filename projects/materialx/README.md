@@ -1,4 +1,4 @@
 ---
-title: MaterialX
-featured_image: stacked/color/materialx-stacked-color.svg
+project: MaterialX
+featured_image: primary/color/materialx-primary-color.svg
 ---

@@ -1,4 +1,4 @@
 ---
-title: OpenEXR
-featured_image: stacked/color/openexr-stacked-color.svg
+project: OpenEXR
+featured_image: primary/color/openexr-primary-color.svg
 ---

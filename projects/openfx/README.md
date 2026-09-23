@@ -1,4 +1,4 @@
 ---
-title: OpenFX
-featured_image: stacked/color/openfx-stacked-color.svg
+project: OpenFX
+featured_image: primary/color/openfx-primary-color.svg
 ---

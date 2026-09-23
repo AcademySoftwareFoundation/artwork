@@ -1,4 +1,4 @@
 ---
-title: Rez
-featured_image: stacked/black/rez-stacked-black.svg
+project: Rez
+featured_image: primary/color/rez-primary-color.svg
 ---
